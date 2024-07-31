@@ -22,6 +22,7 @@ public class Person1 implements Comparable<Person1> {
     }
 
     public String toString() {
+
         return name + " (" + age + " years old)";
     }
 }
